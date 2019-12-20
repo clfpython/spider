@@ -1,0 +1,3151 @@
+{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.0358803272247314,
+    "book_title": "编程小白的第一本 Python 入门书",
+    "read_no": "283.1K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.021238803863525,
+    "book_title": "Serverless架构应用开发：Python实现",
+    "read_no": "6.0K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.11700963973999,
+    "book_title": "Python网络爬虫权威指南（第2版）",
+    "read_no": "24.1K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.072425127029419,
+    "book_title": "利用机器学习开发算法交易系统",
+    "read_no": "8.3K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.059083700180054,
+    "book_title": "Python函数式编程（第2版）",
+    "read_no": "6.5K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.087001085281372,
+    "book_title": "精通特征工程",
+    "read_no": "13.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 23.323904752731323,
+    "book_title": "Python编程：从入门到实践",
+    "read_no": "370.3K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.137515306472778,
+    "book_title": "白话机器学习算法",
+    "read_no": "33.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.154473304748535,
+    "book_title": "SQLAlchemy：Python数据库实战（第2版）",
+    "read_no": "10.6K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.21630573272705,
+    "book_title": "Spark机器学习（第2版）",
+    "read_no": "12.0K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 26.464476823806763,
+    "book_title": "特征工程入门与实践",
+    "read_no": "15.0K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.35658311843872,
+    "book_title": "少儿编程思维训练：65道题提高孩子计算思考力",
+    "read_no": "6.3K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.467286825180054,
+    "book_title": "深入理解Python特性",
+    "read_no": "18.8K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.519148826599121,
+    "book_title": "Python深度学习",
+    "read_no": "63.6K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.532114505767822,
+    "book_title": "学习JavaScript数据结构与算法（第3版）",
+    "read_no": "18.3K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.533405780792236,
+    "book_title": "数学女孩4：随机算法",
+    "read_no": "17.7K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.51744794845581,
+    "book_title": "Python网络数据采集",
+    "read_no": "134.6K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.45561385154724,
+    "book_title": "深度学习入门：基于Python的理论与实现",
+    "read_no": "99.8K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.414748668670654,
+    "book_title": "深入理解JavaScript特性",
+    "read_no": "10.9K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 20.306687116622925,
+    "book_title": "机器学习与优化",
+    "read_no": "28.9K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 20.197975873947144,
+    "book_title": "React Native开发指南（第2版）",
+    "read_no": "8.7K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 20.143094778060913,
+    "book_title": "Java实践指南",
+    "read_no": "7.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 20.130129098892212,
+    "book_title": "Linux命令行与shell脚本编程大全（第3版）",
+    "read_no": "67.9K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 20.19103193283081,
+    "book_title": "Hadoop深度学习",
+    "read_no": "10.9K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 20.190006732940674,
+    "book_title": "React设计模式与最佳实践",
+    "read_no": "23.7K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 20.18997883796692,
+    "book_title": "gRPC Java工程入门实践",
+    "read_no": "3.7K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 20.188981533050537,
+    "book_title": "精通Linux（第2版）",
+    "read_no": "41.7K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 19.201725006103516,
+    "book_title": "Python机器学习基础教程",
+    "read_no": "47.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 19.20073127746582,
+    "book_title": "JavaScript测试驱动开发",
+    "read_no": "12.4K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 19.200752019882202,
+    "book_title": "我的第一本算法书",
+    "read_no": "53.6K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 19.20075559616089,
+    "book_title": "精通Java并发编程（第2版）",
+    "read_no": "22.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.118589162826538,
+    "book_title": "Python数据科学手册",
+    "read_no": "33.2K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.121649503707886,
+    "book_title": "预测分析与数据挖掘：RapidMiner实现",
+    "read_no": "11.3K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.12261390686035,
+    "book_title": "同构JavaScript应用开发",
+    "read_no": "13.5K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.12360429763794,
+    "book_title": "Scratch魔法书：探索算法",
+    "read_no": "11.3K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.13347578048706,
+    "book_title": "流畅的Python",
+    "read_no": "158.5K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.133445262908936,
+    "book_title": "稀疏统计学习及其应用",
+    "read_no": "12.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.13447403907776,
+    "book_title": "React Native应用开发实例解析",
+    "read_no": "16.3K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.13347578048706,
+    "book_title": "枕边算法书",
+    "read_no": "38.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.133553504943848,
+    "book_title": "Flask Web开发：基于Python的Web应用开发实战（第2版）",
+    "read_no": "35.8K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.13353991508484,
+    "book_title": "码农·解锁机器学习（第30期）",
+    "read_no": "25.1K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.12953472137451,
+    "book_title": "学习JavaScript数据结构与算法（第2版）",
+    "read_no": "32.7K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.130560874938965,
+    "book_title": "明解Java",
+    "read_no": "28.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.110614776611328,
+    "book_title": "Python数据分析实战（第2版）",
+    "read_no": "2.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.108591556549072,
+    "book_title": "Head First JavaScript程序设计",
+    "read_no": "63.8K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.109588384628296,
+    "book_title": "程序员的算法趣题",
+    "read_no": "44.3K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.110644340515137,
+    "book_title": "Java机器学习",
+    "read_no": "24.1K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.11866283416748,
+    "book_title": "Python计算机视觉编程",
+    "read_no": "59.6K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.118635416030884,
+    "book_title": "Python机器学习经典实例",
+    "read_no": "59.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.118634700775146,
+    "book_title": "JavaScript编程精粹",
+    "read_no": "16.4K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 18.11868977546692,
+    "book_title": "算法图解",
+    "read_no": "122.7K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.12122392654419,
+    "book_title": "Python基础教程（第3版）",
+    "read_no": "102.3K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.1222505569458,
+    "book_title": "Keras图像深度学习实战",
+    "read_no": "15.8K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.12321949005127,
+    "book_title": "精通JavaScript（第2版）",
+    "read_no": "22.9K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.125186920166016,
+    "book_title": "算法新解",
+    "read_no": "58.8K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.11713695526123,
+    "book_title": "Python高性能（第2版）",
+    "read_no": "16.5K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.120094537734985,
+    "book_title": "你不知道的JavaScript（中卷）",
+    "read_no": "61.3K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.121121644973755,
+    "book_title": "挑战程序设计竞赛2：算法和数据结构",
+    "read_no": "31.2K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.122089862823486,
+    "book_title": "图解Java多线程设计模式",
+    "read_no": "35.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 13.162477970123291,
+    "book_title": "父与子的编程之旅：与小卡特一起学Python",
+    "read_no": "93.9K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 13.167441606521606,
+    "book_title": "R语言与数据分析实战",
+    "read_no": "12.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 13.169458866119385,
+    "book_title": "React Native开发指南",
+    "read_no": "37.1K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 13.166492462158203,
+    "book_title": "计算机程序设计艺术 卷2：半数值算法（第3版）",
+    "read_no": "18.2K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.214457035064697,
+    "book_title": "走近2050：注意力、互联网与人工智能",
+    "read_no": "14.7K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.214485883712769,
+    "book_title": "JSON必知必会",
+    "read_no": "21.0K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.215428113937378,
+    "book_title": "算法（英文版•第4版）",
+    "read_no": "25.6K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.1765878200531,
+    "book_title": "机器学习",
+    "read_no": "36.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.17358922958374,
+    "book_title": "CSS揭秘",
+    "read_no": "83.5K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.171600580215454,
+    "book_title": "算法基础（第5版）",
+    "read_no": "26.6K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.171570777893066,
+    "book_title": "Java编程思维",
+    "read_no": "25.8K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.123727083206177,
+    "book_title": "JavaScript程序设计",
+    "read_no": "18.0K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.124734163284302,
+    "book_title": "计算机程序设计艺术 卷1：基本算法（第3版）",
+    "read_no": "49.2K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.126720666885376,
+    "book_title": "图解设计模式",
+    "read_no": "40.6K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.124763011932373,
+    "book_title": "React Native入门与实战",
+    "read_no": "25.4K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.124793767929077,
+    "book_title": "Spring Boot实战",
+    "read_no": "41.8K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.123772621154785,
+    "book_title": "学习JavaScript数据结构与算法",
+    "read_no": "33.8K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.124766111373901,
+    "book_title": "深入理解程序设计：使用Linux汇编语言",
+    "read_no": "19.9K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.149380207061768,
+    "book_title": "JavaScript网页动画设计",
+    "read_no": "24.2K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.15436577796936,
+    "book_title": "算法的乐趣",
+    "read_no": "104.0K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.15333342552185,
+    "book_title": "Java 8实战",
+    "read_no": "73.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.155365943908691,
+    "book_title": "防线：企业Linux 安全运维理念和实战",
+    "read_no": "9.8K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.177877187728882,
+    "book_title": "JavaScript Web应用开发",
+    "read_no": "22.2K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.177903652191162,
+    "book_title": "算法问题实战策略",
+    "read_no": "22.0K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.175881624221802,
+    "book_title": "Java性能权威指南",
+    "read_no": "34.6K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.175910234451294,
+    "book_title": "Linux命令行与Shell脚本编程大全（第2版）",
+    "read_no": "47.9K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.211353063583374,
+    "book_title": "Java技术手册（第6版）",
+    "read_no": "47.1K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.241272211074829,
+    "book_title": "Linux/Unix设计思想",
+    "read_no": "30.9K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.253237962722778,
+    "book_title": "C程序设计伴侣——帮你更好地理解谭浩强老师的那本书以及更多！",
+    "read_no": "8.9K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.328727960586548,
+    "book_title": "全端Web开发：使用JavaScript与Java",
+    "read_no": "29.9K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.330718040466309,
+    "book_title": "嵌入式Linux基础教程(第2版•英文版) ",
+    "read_no": "8.4K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.329718351364136,
+    "book_title": "C语言程序设计：现代方法",
+    "read_no": "7.7K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.284192323684692,
+    "book_title": "Scala与Clojure函数式编程模式：Java虚拟机高效编程",
+    "read_no": "18.7K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.248288869857788,
+    "book_title": "现代编译原理——C语言描述",
+    "read_no": "7.7K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.234326362609863,
+    "book_title": "应用随机过程：概率模型导论（第11版）",
+    "read_no": "16.2K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.131265640258789,
+    "book_title": "编程精粹:编写高质量C语言代码（英文版）",
+    "read_no": "6.8K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.12930154800415,
+    "book_title": "程序员的数学3：线性代数",
+    "read_no": "60.4K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.13226842880249,
+    "book_title": "机器学习实践：测试驱动的开发方法 ",
+    "read_no": "15.5K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.123115301132202,
+    "book_title": "你必须知道的495个C语言问题",
+    "read_no": "6.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.121093511581421,
+    "book_title": "云端代码：Google App Engine编程指南",
+    "read_no": "11.3K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.119098901748657,
+    "book_title": "科学的极致：漫谈人工智能",
+    "read_no": "22.5K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.138206720352173,
+    "book_title": "机器学习系统设计",
+    "read_no": "46.0K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.14216661453247,
+    "book_title": "图解机器学习",
+    "read_no": "36.7K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.140222787857056,
+    "book_title": "Python数据分析基础",
+    "read_no": "48.9K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.131829261779785,
+    "book_title": "Flask Web开发：基于Python的Web应用开发实战",
+    "read_no": "110.3K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.13385009765625,
+    "book_title": "码农·如何成为一位数据科学家（第17期）",
+    "read_no": "27.4K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.13285207748413,
+    "book_title": "数据结构与算法JavaScript描述",
+    "read_no": "38.1K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 11.133850812911987,
+    "book_title": "Spark机器学习",
+    "read_no": "23.3K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 13.154905796051025,
+    "book_title": "Python网络编程攻略",
+    "read_no": "44.0K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 13.153912544250488,
+    "book_title": "数据科学实战",
+    "read_no": "33.9K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 13.151943683624268,
+    "book_title": "精通JavaScript开发",
+    "read_no": "16.7K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 13.155904531478882,
+    "book_title": "啊哈！算法",
+    "read_no": "41.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 15.16541838645935,
+    "book_title": "Python Web开发：测试驱动方法",
+    "read_no": "29.7K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 15.21827745437622,
+    "book_title": "Linux Shell脚本攻略",
+    "read_no": "30.8K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 15.21329379081726,
+    "book_title": "算法帝国（入选中国好书榜）",
+    "read_no": "29.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 15.236229658126831,
+    "book_title": "码农·美妙的数学（第23期）",
+    "read_no": "26.0K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.25760006904602,
+    "book_title": "Python性能分析与优化",
+    "read_no": "17.1K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.30643630027771,
+    "book_title": "Mahout实战",
+    "read_no": "25.4K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.31045913696289,
+    "book_title": "JavaScript设计模式与开发实践",
+    "read_no": "65.0K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.311453342437744,
+    "book_title": "可能与不可能的边界：P/NP问题趣史",
+    "read_no": "20.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.388649225234985,
+    "book_title": "Python科学计算基础教程",
+    "read_no": "24.3K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.33875560760498,
+    "book_title": "推荐系统",
+    "read_no": "28.8K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.33479356765747,
+    "book_title": "你不知道的JavaScript（上卷）",
+    "read_no": "85.8K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 16.315816164016724,
+    "book_title": "迷茫的旅行商：一个无处不在的计算机算法问题",
+    "read_no": "22.9K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 15.261534452438354,
+    "book_title": "Python网络编程（第3版）",
+    "read_no": "38.9K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 15.212666511535645,
+    "book_title": "机器学习实战",
+    "read_no": "142.5K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 15.207679271697998,
+    "book_title": "HTML5秘籍（第2版）",
+    "read_no": "30.1K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 15.195708751678467,
+    "book_title": "挑战程序设计竞赛（第2版）",
+    "read_no": "61.0K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.127196550369263,
+    "book_title": "Python高级机器学习",
+    "read_no": "7.2K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.134251832962036,
+    "book_title": "JavaScript基础教程（第9版）",
+    "read_no": "28.2K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.135147333145142,
+    "book_title": "Java程序员修炼之道",
+    "read_no": "53.5K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.135174751281738,
+    "book_title": "Linux程序设计(第4版)",
+    "read_no": "35.5K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.127373933792114,
+    "book_title": "Python编程导论（第2版）",
+    "read_no": "48.2K"
+}{
+    "tags": "机器学习",
+    "tag_id": "69",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.128370761871338,
+    "book_title": "生成对抗网络项目实战",
+    "read_no": "1.2K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.129369258880615,
+    "book_title": "JavaScript快速全栈开发",
+    "read_no": "30.6K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.128371000289917,
+    "book_title": "Java 7基础教程",
+    "read_no": "10.5K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.129083395004272,
+    "book_title": "Python社会媒体挖掘",
+    "read_no": "11.5K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.120134830474854,
+    "book_title": "JavaScript编程实战",
+    "read_no": "13.6K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.120107412338257,
+    "book_title": "算法（第4版）",
+    "read_no": "100.2K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.120107650756836,
+    "book_title": "像计算机科学家一样思考（Java版）",
+    "read_no": "21.4K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.1209557056427,
+    "book_title": "Python参考手册（第4版）",
+    "read_no": "12.8K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.120928049087524,
+    "book_title": "HTML5权威指南（迄今为止最全面详实的网页设计参考书）",
+    "read_no": "37.8K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.120927572250366,
+    "book_title": "算法（英文版 第4版）",
+    "read_no": "24.4K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.120927095413208,
+    "book_title": "Java解惑",
+    "read_no": "8.0K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.158427715301514,
+    "book_title": "Python开发实战",
+    "read_no": "35.1K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.159424066543579,
+    "book_title": "JavaScript编程全解",
+    "read_no": "35.6K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.158398151397705,
+    "book_title": "奇思妙想：15位计算机天才及其重大发现",
+    "read_no": "16.4K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 14.159424304962158,
+    "book_title": "Scala程序设计：Java虚拟机多核编程实战",
+    "read_no": "13.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.169772148132324,
+    "book_title": "Python编程入门（第3版）",
+    "read_no": "38.7K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.175780296325684,
+    "book_title": "深入浅出Node.js",
+    "read_no": "65.2K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.175780057907104,
+    "book_title": "编程珠玑（续）",
+    "read_no": "7.0K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 12.175781011581421,
+    "book_title": "Seam实战",
+    "read_no": "4.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.140883684158325,
+    "book_title": "NumPy攻略： Python科学计算与数据分析",
+    "read_no": "35.7K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.142878293991089,
+    "book_title": "Three.js入门指南",
+    "read_no": "99.1K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.141939640045166,
+    "book_title": "编程珠玑（英文版•第2版）",
+    "read_no": "5.9K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.14190936088562,
+    "book_title": "Java ME基础教程",
+    "read_no": "4.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.129892110824585,
+    "book_title": "Python数据分析基础教程：NumPy学习指南（第2版）",
+    "read_no": "36.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.124906539916992,
+    "book_title": "iOS Web应用开发:运用HTML5、CSS3与JavaScript",
+    "read_no": "13.0K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.122910499572754,
+    "book_title": "程序设计中常用的解题策略",
+    "read_no": "5.1K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.122912645339966,
+    "book_title": "JavaFX本质论",
+    "read_no": "3.7K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.112204790115356,
+    "book_title": "JavaScript异步编程：设计快速响应的网络应用",
+    "read_no": "23.4K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.113185405731201,
+    "book_title": "数据压缩导论（英文版•第3版）",
+    "read_no": "3.9K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 10.116193532943726,
+    "book_title": "Java语言程序设计",
+    "read_no": "4.1K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.116895198822021,
+    "book_title": "深入浅出CoffeeScript",
+    "read_no": "13.8K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.115870237350464,
+    "book_title": "编程珠玑II",
+    "read_no": "4.6K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.115870714187622,
+    "book_title": "实用Java教程：基于BlueJ的对象优先方法（第3版）",
+    "read_no": "3.7K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.1149001121521,
+    "book_title": "Red Hat Linux指南：服务器设置与程序设计篇",
+    "read_no": "4.1K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 8.107307434082031,
+    "book_title": "JavaScript基础教程（第8版）",
+    "read_no": "17.8K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 8.10730504989624,
+    "book_title": "编程珠玑(第2版)",
+    "read_no": "9.6K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 8.105300188064575,
+    "book_title": "Java编程风格（英汉对照）",
+    "read_no": "3.0K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 8.104314804077148,
+    "book_title": "Linux高级程序设计",
+    "read_no": "4.6K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 8.10133147239685,
+    "book_title": "JavaScript高级程序设计（第3版）",
+    "read_no": "148.1K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 8.100361585617065,
+    "book_title": "新编实用算法分析与程序设计",
+    "read_no": "4.0K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 8.101332664489746,
+    "book_title": "iBATIS实战",
+    "read_no": "4.0K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 8.104355096817017,
+    "book_title": "Linux程序设计(第3版)",
+    "read_no": "3.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.1100146770477295,
+    "book_title": "HTML5 Canvas基础教程",
+    "read_no": "16.3K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.1100122928619385,
+    "book_title": "数据结构与算法分析——C++描述(第3版)",
+    "read_no": "11.9K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.110011577606201,
+    "book_title": "Java面向对象程序设计（英文版•第3版）",
+    "read_no": "4.2K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 7.10701847076416,
+    "book_title": "建筑中的数学之旅",
+    "read_no": "15.1K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.107656955718994,
+    "book_title": "JavaScript详解（第2版）",
+    "read_no": "9.1K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.107656955718994,
+    "book_title": "数据结构与算法分析——C++描述(英文版第3版)",
+    "read_no": "6.8K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.107654571533203,
+    "book_title": "EJB 3基础教程",
+    "read_no": "2.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.105658054351807,
+    "book_title": "概率论及其应用（卷1•第3版）",
+    "read_no": "13.7K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.104336977005005,
+    "book_title": "JavaScript修炼之道 ",
+    "read_no": "11.8K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.102318286895752,
+    "book_title": "Java程序设计与问题解决：高级篇（第4版）",
+    "read_no": "3.4K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.102346181869507,
+    "book_title": "Python基础教程（第2版）",
+    "read_no": "24.2K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.109705924987793,
+    "book_title": "Java程序设计与问题解决：基础篇(第4版)",
+    "read_no": "3.5K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1097071170806885,
+    "book_title": "通信的数学理论",
+    "read_no": "41.0K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1106739044189453,
+    "book_title": "与孩子一起学编程",
+    "read_no": "48.7K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.1133694648742676,
+    "book_title": "Java教程(第4版)",
+    "read_no": "3.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.1399219036102295,
+    "book_title": "具体数学：计算机科学基础（第2版） ",
+    "read_no": "61.3K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.141888380050659,
+    "book_title": "编程导论",
+    "read_no": "16.1K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.141916513442993,
+    "book_title": "矩阵计算（英文版•第4版）",
+    "read_no": "8.4K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1016733646392822,
+    "book_title": "有趣的统计：75招学会数据分析",
+    "read_no": "20.9K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.148519277572632,
+    "book_title": "Python基础教程（第2版•修订版）",
+    "read_no": "40.1K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.1004555225372314,
+    "book_title": "数学与生活（修订版）",
+    "read_no": "12.6K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.104445219039917,
+    "book_title": "Red Hat Linux指南：基础与系统管理篇",
+    "read_no": "4.7K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.103447914123535,
+    "book_title": "精通Python设计模式",
+    "read_no": "29.7K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.101451396942139,
+    "book_title": "精通Linux驱动程序开发（英文版）",
+    "read_no": "2.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.1014509201049805,
+    "book_title": "游戏开发的数学和物理",
+    "read_no": "24.2K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.1569812297821045,
+    "book_title": "16位单片机C语言编程：基于PIC24",
+    "read_no": "3.5K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.159000396728516,
+    "book_title": "Python数据挖掘入门与实践",
+    "read_no": "48.7K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.162194490432739,
+    "book_title": "Python数据分析实战",
+    "read_no": "25.4K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.163219451904297,
+    "book_title": "JavaScript DOM编程艺术(第2版)",
+    "read_no": "53.0K"
+}{
+    "tags": "算法",
+    "tag_id": "101",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.159229040145874,
+    "book_title": "算法分析与设计",
+    "read_no": "3.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.1602253913879395,
+    "book_title": "证明达尔文：进化和生物创造性的一个数学理论",
+    "read_no": "10.3K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.159229755401611,
+    "book_title": "32位单片机C语言编程：基于PIC32",
+    "read_no": "3.5K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.244433164596558,
+    "book_title": "精通Python数据科学",
+    "read_no": "3.9K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.242414712905884,
+    "book_title": "JavaScript高级程序设计（第2版）",
+    "read_no": "9.7K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.252506971359253,
+    "book_title": "Python黑客攻防入门",
+    "read_no": "29.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.258482933044434,
+    "book_title": "深入浅出Ext JS(第2版)",
+    "read_no": "6.3K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.2585108280181885,
+    "book_title": "度量：一首献给数学的情歌",
+    "read_no": "22.0K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.257487058639526,
+    "book_title": "Ubuntu Linux指南：管理篇",
+    "read_no": "4.7K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.256516218185425,
+    "book_title": "统计思维：程序员数学之概率统计（第2版）",
+    "read_no": "20.3K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.116158485412598,
+    "book_title": "利用Python开源工具分析恶意代码",
+    "read_no": "12.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.110318183898926,
+    "book_title": "Python数据科学入门",
+    "read_no": "28.7K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.105334997177124,
+    "book_title": "JavaScript袖珍速查手册",
+    "read_no": "4.4K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.103344678878784,
+    "book_title": "程序员的数学",
+    "read_no": "51.6K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.103317499160767,
+    "book_title": "Linux命令详解手册",
+    "read_no": "5.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 9.179206609725952,
+    "book_title": "jQuery基础教程（第2版）",
+    "read_no": "5.6K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.111268997192383,
+    "book_title": "C语言程序设计",
+    "read_no": "2.9K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.116692304611206,
+    "book_title": "Python经典实例",
+    "read_no": "37.7K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.097522974014282,
+    "book_title": "影响数学发展的20个大问题",
+    "read_no": "6.7K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.09752631187439,
+    "book_title": "JavaScript基础教程（第7版）",
+    "read_no": "3.7K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.098492383956909,
+    "book_title": "如何破解达芬奇密码？——35问揭示数学之美",
+    "read_no": "8.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.096526622772217,
+    "book_title": "Linux命令速查手册",
+    "read_no": "10.9K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.096548795700073,
+    "book_title": "C语言解惑",
+    "read_no": "3.3K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.10952615737915,
+    "book_title": "Python科学计算最佳实践：SciPy指南",
+    "read_no": "15.6K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.111542224884033,
+    "book_title": "伊藤清概率论",
+    "read_no": "6.2K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.113536596298218,
+    "book_title": "深入浅出Ext JS",
+    "read_no": "6.3K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.114560842514038,
+    "book_title": "高等微积分（第3版修订版）",
+    "read_no": "8.1K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.1165571212768555,
+    "book_title": "嵌入式Linux基础教程",
+    "read_no": "3.4K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.117528915405273,
+    "book_title": "C语言详解（第5版）",
+    "read_no": "3.9K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.107247352600098,
+    "book_title": "Python数据结构与算法分析（第2版）",
+    "read_no": "21.5K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.113415479660034,
+    "book_title": "JavaScript设计模式",
+    "read_no": "6.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.111417531967163,
+    "book_title": "数学与生活",
+    "read_no": "6.2K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.110417366027832,
+    "book_title": "JavaScript捷径教程",
+    "read_no": "3.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.108428239822388,
+    "book_title": "精通Linux设备驱动程序开发",
+    "read_no": "5.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.108398675918579,
+    "book_title": "玩不够的数学：算术与几何的妙趣",
+    "read_no": "16.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.094578981399536,
+    "book_title": "Python数据科学与机器学习：从入门到实践",
+    "read_no": "12.8K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.088769197463989,
+    "book_title": "JavaScript DOM高级程序设计",
+    "read_no": "7.2K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.089768648147583,
+    "book_title": "哈代数论（第6版）",
+    "read_no": "8.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.0907416343688965,
+    "book_title": "Ajax实战：实例详解",
+    "read_no": "3.9K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.090765714645386,
+    "book_title": "C语言程序设计(英文版第3版)",
+    "read_no": "4.5K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.090736627578735,
+    "book_title": "庞加莱猜想：追寻宇宙的形状",
+    "read_no": "11.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.125775098800659,
+    "book_title": "普林斯顿微积分读本",
+    "read_no": "32.5K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.124804973602295,
+    "book_title": "jQuery基础教程",
+    "read_no": "3.1K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.122809410095215,
+    "book_title": "你不可不知的50个数学知识",
+    "read_no": "12.7K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.12275505065918,
+    "book_title": "数学女孩",
+    "read_no": "41.1K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.122810363769531,
+    "book_title": "Java性能优化权威指南",
+    "read_no": "31.8K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.09351658821106,
+    "book_title": "精通JavaScript",
+    "read_no": "3.5K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.092220783233643,
+    "book_title": "实用微积分（第3版）",
+    "read_no": "6.5K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.09222149848938,
+    "book_title": "泛函分析",
+    "read_no": "5.3K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.091223478317261,
+    "book_title": "深入Linux内核架构",
+    "read_no": "34.5K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.0912230014801025,
+    "book_title": "数学女孩2：费马大定理",
+    "read_no": "18.5K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.092192649841309,
+    "book_title": "码农·进击的Java（第16期）",
+    "read_no": "26.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 5.095826864242554,
+    "book_title": "JavaScript基础教程",
+    "read_no": "3.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.096147060394287,
+    "book_title": "微积分的历程：从牛顿到勒贝格",
+    "read_no": "18.1K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.095149517059326,
+    "book_title": "数学沉思录：古今数学思想的发展与演变",
+    "read_no": "12.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.095177888870239,
+    "book_title": "Linux嵌入式系统高级程序设计",
+    "read_no": "7.5K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.094152927398682,
+    "book_title": "Linux内核编程",
+    "read_no": "7.8K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.093213796615601,
+    "book_title": "Python数据处理",
+    "read_no": "59.0K"
+}{
+    "tags": "JavaScript",
+    "tag_id": "6",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.087560415267944,
+    "book_title": "JavaScript高级程序设计",
+    "read_no": "5.2K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.0902013778686523,
+    "book_title": "怎样解题：数学竞赛攻关宝典（第2版）",
+    "read_no": "5.4K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.0911967754364014,
+    "book_title": "Python函数式编程",
+    "read_no": "3.5K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.0911977291107178,
+    "book_title": "代数的历史：人类对未知量的不舍追踪",
+    "read_no": "5.8K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.084169864654541,
+    "book_title": "三角之美：边边角角的趣事",
+    "read_no": "3.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.130877256393433,
+    "book_title": "趣味学数学",
+    "read_no": "21.1K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 3,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.130848169326782,
+    "book_title": "Python语言及其应用",
+    "read_no": "54.3K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 4,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0991241931915283,
+    "book_title": "数学分析八讲",
+    "read_no": "4.5K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0851941108703613,
+    "book_title": "C标准库",
+    "read_no": "10.0K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.059791088104248,
+    "book_title": "C语言接口与实现：创建可重用软件的技术",
+    "read_no": "10.5K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.127368688583374,
+    "book_title": "Python网络爬虫和数据抓取",
+    "read_no": "7.3K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1114113330841064,
+    "book_title": "线性代数应该这样学（第3版）",
+    "read_no": "40.8K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.149695158004761,
+    "book_title": "Python 3网络爬虫开发实战",
+    "read_no": "59.5K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.0921502113342285,
+    "book_title": "Keras深度学习：基于Python",
+    "read_no": "3.2K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.082871675491333,
+    "book_title": "C语言详解（第6版）",
+    "read_no": "10.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.150585889816284,
+    "book_title": "普林斯顿微积分读本（修订版）",
+    "read_no": "84.3K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.111055374145508,
+    "book_title": "零压力学Python",
+    "read_no": "12.5K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.111328601837158,
+    "book_title": "小波十讲",
+    "read_no": "13.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0890045166015625,
+    "book_title": "Python数据分析：活用Pandas库",
+    "read_no": "3.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1183366775512695,
+    "book_title": "Linux Shell脚本攻略（第2版）",
+    "read_no": "38.3K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0969836711883545,
+    "book_title": "写给大家看的C语言书（第2版）",
+    "read_no": "11.4K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1006782054901123,
+    "book_title": "用数学的语言看世界",
+    "read_no": "29.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.0907580852508545,
+    "book_title": "图解Python机器学习",
+    "read_no": "2.6K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.090787410736084,
+    "book_title": "Linux驱动开发入门与实战（第2版）",
+    "read_no": "11.2K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.0907812118530273,
+    "book_title": "Django企业开发实战：高效Python Web框架指南",
+    "read_no": "28.4K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.112149715423584,
+    "book_title": "数据结构与算法分析——C语言描述(英文版第2版)",
+    "read_no": "11.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.1121506690979,
+    "book_title": "陶哲轩教你学数学",
+    "read_no": "43.6K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.113091230392456,
+    "book_title": "数据预处理大全：基于SQL、R、Python的实用技巧",
+    "read_no": "1.5K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.155467510223389,
+    "book_title": "用Python学统计学",
+    "read_no": "4.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.154500484466553,
+    "book_title": "ARM嵌入式Linux系统开发详解（第2版）",
+    "read_no": "12.6K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.153471231460571,
+    "book_title": "C程序性能优化：20个实验与达人技巧",
+    "read_no": "13.2K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.152474641799927,
+    "book_title": "数学女孩3：哥德尔不完备定理",
+    "read_no": "24.8K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 6.207764625549316,
+    "book_title": "Android编程权威指南（第3版）",
+    "read_no": "53.7K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.176533460617065,
+    "book_title": "Python数据挖掘入门与实践（第2版）",
+    "read_no": "15.4K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.176585912704468,
+    "book_title": "基础拓扑学",
+    "read_no": "6.3K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.176591157913208,
+    "book_title": "Java测试驱动开发",
+    "read_no": "15.6K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.128889083862305,
+    "book_title": "Linux网络编程（第2版）",
+    "read_no": "13.0K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.132846832275391,
+    "book_title": "精通Python设计模式（第2版）",
+    "read_no": "2.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.134843826293945,
+    "book_title": "概率论基础教程（第8版）",
+    "read_no": "10.3K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.138864994049072,
+    "book_title": "C现代编程：集成开发环境、设计模式、极限编程、测试驱动开发、重构、持续集成",
+    "read_no": "15.6K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.1408562660217285,
+    "book_title": "金桢勋的数学随笔",
+    "read_no": "10.9K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.1323161125183105,
+    "book_title": "自然语言处理实战：基于深度学习、NLTK和TensorFlow构建Python应用程序",
+    "read_no": "2.2K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.132294654846191,
+    "book_title": "数值分析",
+    "read_no": "7.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.132315397262573,
+    "book_title": "Linux系统移植（第2版）",
+    "read_no": "10.1K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1391594409942627,
+    "book_title": "Python元学习",
+    "read_no": "1.1K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.136146306991577,
+    "book_title": "金融工程原理",
+    "read_no": "4.4K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1151742935180664,
+    "book_title": "陶哲轩实分析（第3版）",
+    "read_no": "27.9K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0999228954315186,
+    "book_title": "明解Python",
+    "read_no": "601"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0989038944244385,
+    "book_title": "哈代数论（英文版 第6版）",
+    "read_no": "3.8K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.183278560638428,
+    "book_title": "现代编译原理：C语言描述（修订版）",
+    "read_no": "15.8K"
+}{
+    "tags": "最新上线",
+    "tag_id": "36538",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.179257392883301,
+    "book_title": "程序员面试金典（第6版）",
+    "read_no": "20.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.081160068511963,
+    "book_title": "数值分析导论(第3版)",
+    "read_no": "4.6K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1299703121185303,
+    "book_title": "Java从小白到大牛",
+    "read_no": "182.9K"
+}{
+    "tags": "Python",
+    "tag_id": "11",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1210222244262695,
+    "book_title": "Python深度学习入门：从零构建神经网络",
+    "read_no": "323"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.069898843765259,
+    "book_title": "组合数学：专题、技术与算法（英文版）",
+    "read_no": "4.5K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.126063108444214,
+    "book_title": "Linux就是这个范儿",
+    "read_no": "44.8K"
+}{
+    "tags": "最新上线",
+    "tag_id": "36538",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1114728450775146,
+    "book_title": "凤凰项目：一个IT运维的传奇故事（修订版）",
+    "read_no": "4.1K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0794079303741455,
+    "book_title": "实用金融期权估值导论（英文版）",
+    "read_no": "3.8K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.113496780395508,
+    "book_title": "简单微积分：学校未教过的超简易入门技巧",
+    "read_no": "24.7K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1130902767181396,
+    "book_title": "Java从小白到大牛 精简版",
+    "read_no": "353.5K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0821533203125,
+    "book_title": "深入理解C指针（C/C++程序员进阶必备，透彻理解指针与内存管理）",
+    "read_no": "32.6K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0841481685638428,
+    "book_title": "纯数学教程（纪念版）",
+    "read_no": "7.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0588536262512207,
+    "book_title": "概率论基础教程（英文版 第8版）",
+    "read_no": "4.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1074087619781494,
+    "book_title": "春夜十话：数学与情绪",
+    "read_no": "9.7K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.158315658569336,
+    "book_title": "ARM Linux内核源码剖析",
+    "read_no": "27.3K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0941388607025146,
+    "book_title": "怎样证明数学题（英文版•第2版）",
+    "read_no": "4.8K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.146688461303711,
+    "book_title": "只是为了好玩：Linux之父林纳斯自传",
+    "read_no": "31.8K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1466856002807617,
+    "book_title": "C语言程序设计：现代方法（第2版）",
+    "read_no": "36.6K"
+}{
+    "tags": "最新上线",
+    "tag_id": "36538",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1458733081817627,
+    "book_title": "深度学习的数学",
+    "read_no": "23.3K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.1399459838867188,
+    "book_title": "微积分入门（修订版）",
+    "read_no": "28.9K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.1156585216522217,
+    "book_title": "征服C指针 ",
+    "read_no": "36.8K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.1039929389953613,
+    "book_title": "矩阵计算（英文版•第3版）",
+    "read_no": "3.2K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0671002864837646,
+    "book_title": "复分析：可视化方法",
+    "read_no": "7.3K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.154876470565796,
+    "book_title": "Linux shell脚本编程入门",
+    "read_no": "18.9K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.115678548812866,
+    "book_title": "跟阿铭学Linux",
+    "read_no": "21.9K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.0728392601013184,
+    "book_title": "什么是数学？（英文版）",
+    "read_no": "5.3K"
+}{
+    "tags": "C语言",
+    "tag_id": "2492",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.124735116958618,
+    "book_title": "明解C语言：中级篇",
+    "read_no": "40.9K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 4.178489446640015,
+    "book_title": "Java虚拟机基础教程",
+    "read_no": "16.2K"
+}{
+    "tags": "每周特价",
+    "tag_id": "36527",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.132709503173828,
+    "book_title": "MySQL必知必会",
+    "read_no": "29.0K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.1064584255218506,
+    "book_title": "线性代数应该这样学（第2版）",
+    "read_no": "5.5K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.106459617614746,
+    "book_title": "悠扬的素数：二百年数学绝唱黎曼假设",
+    "read_no": "6.9K"
+}{
+    "tags": "Java",
+    "tag_id": "39",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.166724443435669,
+    "book_title": "Java轻松学",
+    "read_no": "17.8K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.113861083984375,
+    "book_title": "应用组合数学（第5版）",
+    "read_no": "5.2K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 3.178691864013672,
+    "book_title": "Linux系统架构和应用技巧 ",
+    "read_no": "24.1K"
+}{
+    "tags": "每周特价",
+    "tag_id": "36527",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.434246778488159,
+    "book_title": "Java 8函数式编程",
+    "read_no": "31.4K"
+}{
+    "tags": "数学",
+    "tag_id": "448",
+    "depth": 5,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 0.492262601852417,
+    "book_title": "微分几何基础（英文版•第2版修订版）",
+    "read_no": "3.4K"
+}{
+    "tags": "Linux",
+    "tag_id": "25",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 2.602172374725342,
+    "book_title": "精通Linux内核网络",
+    "read_no": "14.4K"
+}{
+    "tags": "最新上线",
+    "tag_id": "36538",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 0.6866154670715332,
+    "book_title": "cURL必知必会",
+    "read_no": "3.7K"
+}{
+    "tags": "最新上线",
+    "tag_id": "36538",
+    "depth": 2,
+    "download_timeout": 180.0,
+    "download_slot": "www.ituring.com.cn",
+    "download_latency": 0.851449728012085,
+    "book_title": "Java实战（第2版）",
+    "read_no": "4.4K"
+}

@@ -1,0 +1,101 @@
+{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1212047676047915786244767612047676047915786244791578624",
+    "name": "29777-交通云移动端开发工程师（flutter/ios/android，腾讯云全资子公司）",
+    "content": "1、负责原生+混编APP开发；2、负责原生+混编APP技术方案设计及预演；3、参与产品需求分析，进行APP功能结构设计及开发；4、持续优化移动终端的架构，提升性能，安全及可用性；",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.14461302757263184,
+    "duty": "1、负责原生+混编APP开发；\n2、负责原生+混编APP技术方案设计及预演；\n3、参与产品需求分析，进行APP功能结构设计及开发；\n4、持续优化移动终端的架构，提升性能，安全及可用性；",
+    "requirement": "1、本科及以上学历，计算机相关专业； \n2、3年以上工作经验，其中至少1.5年Flutter 开发经验；\n3、参与过真实的Flutter项目开发，上架过Iios应用及安卓应用；\n4、能熟悉编译出安卓Flutter及IOS Flutter项目；\n5、熟悉业界主流移动端APP插件化、动态化技术；\n6、熟悉Android或IOS框架及各种特性优先；\n7、有移动端性能，安全优化经验优先；        \n8、具备较强的沟通交流，良好的文字表达能力，团队合作能力。\n注：此岗位为腾讯集团旗下全资子公司编制岗位。"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1174731174730931932499968931932499968",
+    "name": "TZ-IR Consultant",
+    "content": "Daily news and track capital market information.Summarize analysts’ research. Regular data maintenance and valuation update etc. Prepare materials for quarterly financial reporting, M&A communication and investor conferences.Work in ad hoc projects in support of IR initiatives.",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.04584932327270508,
+    "duty": "Daily news and track capital market information.\nSummarize analysts’ research. \nRegular data maintenance and valuation update etc. \nPrepare materials for quarterly financial reporting, M&A communication and investor conferences.\nWork in ad hoc projects in support of IR initiatives.\n",
+    "requirement": "Degree in Finance/ Accounting / MBA or CFA Charterholder\n2-3 year experience in financial industry\nKnowledge of China Internet industry is an advantage \nHigh proficiency in spoken and written English and Mandarin Chinese \nGood interpersonal skills, motivated, independent and can perform under pressure \nFrequent travel is required"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1205020106405449728",
+    "name": "22989-腾讯云块存储底层系统研发工程师（深圳）",
+    "content": "负责腾讯云块存储底层分布式系统研发、性能优化工作。",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.15558195114135742,
+    "duty": "负责腾讯云块存储底层分布式系统研发、性能优化工作。",
+    "requirement": "3年以上Linux操作系统下C/C++项目开发经验；\n熟悉Linux操作系统原理、内核IO栈、ext3、ext4文件系统； \n熟悉分布式系统理论，有分布式存储系统研发设计经验优先；\n熟悉iscsi协议和块设备虚拟化并有开发经验者优先； \n熟悉spdk并有开发经验者优先；\n有想法有担当，自信，不轻易说做不到； \n热情、积极主动，学习能力强，高度的责任心，愿意主动接受挑战。"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1205020709525393408",
+    "name": "22989-腾讯专有云Web前端开发工程师",
+    "content": "1.负责腾讯专有云web平台和云产品的研发和持续迭代工作；2. 负责前端交付效率工具的设计与研发3.负责项目开发中重点、难点技术攻坚；4.与后端一起完成系统的对接联调及集成工作；5.参与前端标准化，探索前端新技术并落地实践。",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.1496286392211914,
+    "duty": "1.负责腾讯专有云web平台和云产品的研发和持续迭代工作；\n2. 负责前端交付效率工具的设计与研发\n3.负责项目开发中重点、难点技术攻坚；\n4.与后端一起完成系统的对接联调及集成工作；\n5.参与前端标准化，探索前端新技术并落地实践。",
+    "requirement": "1.3年以上前端开发经验，负责过大型web项目，能够运用web前端技术构建高性能应用程序；\n2.熟悉H5、CSS3,精通JavaScript，熟悉ES6/ES7标准；\n3.熟悉vue，react，Angular等任意一种现代前端框架并理解其原理；\n4.热爱前端技术，注重代码质量；有框架设计能力者优先，熟悉任意一门后端语言者优先；\n5.有团队精神、善于沟通、有责任心、执行能力强。"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1212050186396321751045120501863963217510418639632175112050186396321751044",
+    "name": "22989-腾讯云音视频终端架构师（上海）",
+    "content": "1. 作为腾讯云终端研发中心团队的服务接口人，全流程参与客户需求咨询、需求评估、方案设计、方案实施及交付工作。2. 推动腾讯云终端产品体系不断优化，解决客户使用产品服务和解决方案过程中的技术问题，不断完善问题处理机制和流程。3. 基于腾讯云产品、解决方案及技术体系，对客户需求、业务场景、技术方案进行梳理与分析，并向客户提供切实的技术规划及技术咨询。4. 基于腾讯云的产品线、技术体系，帮助企业级客户制定业务流程，包括业务最佳实践、产品变更处理机制和产品问题处理机制等，帮助客户深度理解音视频及通信云服务，并持续帮助客户提升技术能力。",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.1885240077972412,
+    "duty": "1. 作为腾讯云终端研发中心团队的服务接口人，全流程参与客户需求咨询、需求评估、方案设计、方案实施及交付工作。\n2. 推动腾讯云终端产品体系不断优化，解决客户使用产品服务和解决方案过程中的技术问题，不断完善问题处理机制和流程。\n3. 基于腾讯云产品、解决方案及技术体系，对客户需求、业务场景、技术方案进行梳理与分析，并向客户提供切实的技术规划及技术咨询。\n4. 基于腾讯云的产品线、技术体系，帮助企业级客户制定业务流程，包括业务最佳实践、产品变更处理机制和产品问题处理机制等，帮助客户深度理解音视频及通信云服务，并持续帮助客户提升技术能力。\n",
+    "requirement": "1. 具备 iOS 和 Android 双平台的 App 开发经验，熟悉 java 和 objective-C/Swift 等开发语言，熟悉 Xcode 和 Android Studio 这两款开发工具，对于编程有系统化的知识体系。\n2. 具有良好的工程能力，能够独立解决有一定复杂度的问题，包括性能优化、堆栈分析等。\n3. 具有优秀的沟通技巧、团队合作经验和学习能力，能够通过跟客户的沟通获取客户的痛点和需求点。\n4. 具有优秀的表达能力、文档写作能力、技术培训能力，能够清晰准确地向客户表述技术思路和解决方案。\n5. 具有良好的学习能力，在面对崭新的知识栈的时候，能够快速学习，并将习得的知识转化成代码。\n6. 具有良好的操作系统、数据结构和算法、网络基础知识是必备技能，熟悉git等工具使用。"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1175969122878492672",
+    "name": "TZ-IR Senior Consultant（Hong Kong）",
+    "content": "Crafting financial slides, scripts, and preparation of Q&A for the quarterly and interim results announcement;Maintain continuous and timely communication with rating agencies;Conduct research and analysis of bond/fixed income related issues;Provide analysis of announced index event and analyse the index impact.",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.041887760162353516,
+    "duty": "Crafting financial slides, scripts, and preparation of Q&A for the quarterly and interim results announcement;\nMaintain continuous and timely communication with rating agencies;\nConduct research and analysis of bond/fixed income related issues;\nProvide analysis of announced index event and analyse the index impact.",
+    "requirement": "Undergraduate or above;\nDegree in accounting and finance or financial engineering or CFA or MBA;\nPreferably with corporate access experience in financial industry;\nPassionate, curious, willing and able to work under pressure;\nFrequent travel is required;\nHigh language proficiency in English and Mandarin;\nMinimum 5-6 years’ experience in financial industry preferably in research;\nStrong number sense with attention to details.\n"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1212047678043313971204767812047678043313971204331397121204767804331397120",
+    "name": "29777-交通云后台研发工程师(腾讯云全资子公司）",
+    "content": "1、负责交通行业平台产品后台服务框架设计与开发工作；2、深入交通行业业务和相关产品开发落地工作；3、对产品及项目落地中现网问题跟进，疑难问题攻关。",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.21838641166687012,
+    "duty": "1、负责交通行业平台产品后台服务框架设计与开发工作；\n2、深入交通行业业务和相关产品开发落地工作；\n3、对产品及项目落地中现网问题跟进，疑难问题攻关。",
+    "requirement": "1、本科以上学历，计算机相关专业； \n2、3年以上Linux下Python或Golang开发经验，熟悉Java或者C++； \n3、熟悉Linux基本原理以及日常操作； \n4、熟练掌握常用数据结构和算法，对TCP/IP协议有深入了解；\n5、熟悉数据库、安全、网络相关知识； \n6、有交通领域应用研发经验及云平台应用经验优先； \n7、对云计算技术充满热忱，愿意积极学习新技术，责任心强，逻辑思维严谨，表达能力强； \n8、需要较强的沟通能力，善于团队协作。\n注：此岗位为腾讯集团旗下全资子公司编制岗位"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1212050186420732600325120501864207326003218642120501864207326003273261205018642073260032120501864207326003232",
+    "name": "22989-腾讯云音视频终端架构师（北京）",
+    "content": "1. 作为腾讯云终端研发中心团队的服务接口人，全流程参与客户需求咨询、需求评估、方案设计、方案实施及交付工作。2. 推动腾讯云终端产品体系不断优化，解决客户使用产品服务和解决方案过程中的技术问题，不断完善问题处理机制和流程。3. 基于腾讯云产品、解决方案及技术体系，对客户需求、业务场景、技术方案进行梳理与分析，并向客户提供切实的技术规划及技术咨询。4. 基于腾讯云的产品线、技术体系，帮助企业级客户制定业务流程，包括业务最佳实践、产品变更处理机制和产品问题处理机制等，帮助客户深度理解音视频及通信云服务，并持续帮助客户提升技术能力。",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.31618213653564453,
+    "duty": "1. 作为腾讯云终端研发中心团队的服务接口人，全流程参与客户需求咨询、需求评估、方案设计、方案实施及交付工作。\n2. 推动腾讯云终端产品体系不断优化，解决客户使用产品服务和解决方案过程中的技术问题，不断完善问题处理机制和流程。\n3. 基于腾讯云产品、解决方案及技术体系，对客户需求、业务场景、技术方案进行梳理与分析，并向客户提供切实的技术规划及技术咨询。\n4. 基于腾讯云的产品线、技术体系，帮助企业级客户制定业务流程，包括业务最佳实践、产品变更处理机制和产品问题处理机制等，帮助客户深度理解音视频及通信云服务，并持续帮助客户提升技术能力。\n",
+    "requirement": "1. 具备 iOS 和 Android 双平台的 App 开发经验，熟悉 java 和 objective-C/Swift 等开发语言，熟悉 Xcode 和 Android Studio 这两款开发工具，对于编程有系统化的知识体系。\n2. 具有良好的工程能力，能够独立解决有一定复杂度的问题，包括性能优化、堆栈分析等。\n3. 具有优秀的沟通技巧、团队合作经验和学习能力，能够通过跟客户的沟通获取客户的痛点和需求点。\n4. 具有优秀的表达能力、文档写作能力、技术培训能力，能够清晰准确地向客户表述技术思路和解决方案。\n5. 具有良好的学习能力，在面对崭新的知识栈的时候，能够快速学习，并将习得的知识转化成代码。\n6. 具有良好的操作系统、数据结构和算法、网络基础知识是必备技能，熟悉git等工具使用。"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1205019970086375424",
+    "name": "22989-腾讯云块存储高级运营开发工程师（深圳）",
+    "content": "1.负责腾讯云块存储产品特性及运营平台系统的架构设计和开发，包括资源调度、运营分析系统、在离线策略系统的开发与维护；2.通过海量数据分析处理、机器学习等相关技术，探索存储产品的调度及精细化运营。",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.3291189670562744,
+    "duty": "1.负责腾讯云块存储产品特性及运营平台系统的架构设计和开发，包括资源调度、运营分析系统、在离线策略系统的开发与维护；\n2.通过海量数据分析处理、机器学习等相关技术，探索存储产品的调度及精细化运营。",
+    "requirement": "1.具备3年以上开发经验，本科以上学历；\n2.至少精通1门开发语言：C++、Python、PHP；\n3.掌握数据结构及算法；\n4.掌握TCP/IP，网络编程；\n5.熟悉MYSQL、redis、mq、kafka、es、spark、hive、hbase等其中至少三种以上的工具；\n6.有运维自动化、监控系统、发布系统、运营支撑系统等开发经验者优先；\n7.有热情、积极主动、学习能力强、有强烈的责任心，喜欢钻研技术和爱折腾；\n8.有想法有担当，自信，不轻易说做不到。"
+}{
+    "new_url": "http://careers.tencent.com/jobdesc.html?postId=1205019447958441984",
+    "name": "25666-腾讯云华南区域销售（长沙）",
+    "content": "负责腾讯云在华南区域的销售工作，包括目标客户的开发与维护及跟进，市场策略制定、合作伙伴管理等；聚焦销售，有坚定的执行力，达成公司制定的目标任务和KPI考核目标；维护跟进现有客户的商务关系，在现有基础上拓展客户业务需求。",
+    "depth": 1,
+    "download_timeout": 180.0,
+    "download_slot": "careers.tencent.com",
+    "download_latency": 0.3899810314178467,
+    "duty": "负责腾讯云在华南区域的销售工作，包括目标客户的开发与维护及跟进，市场策略制定、合作伙伴管理等；\n聚焦销售，有坚定的执行力，达成公司制定的目标任务和KPI考核目标；\n维护跟进现有客户的商务关系，在现有基础上拓展客户业务需求。",
+    "requirement": "全日制本科以上学历，通信、计算机相关技术、金融等市场营销等相关专业，在传统IT或云服务行业拥有五年以上to B销售经验；\r\n有丰富的区域政企人脉资源，善于人际关系经营，具备良好的谈判和洞察力的优先考虑； \r\n熟悉人工智能、云计算、大数据行业者优先，对新技术、新商业模式有激情；\r\n有独立开拓、跟踪销售线索、并完成项目经验和能力； \r\n具有高抗压能力、适应频繁出差，具有强烈的目标导向和销售的狼性。"
+}

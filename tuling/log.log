@@ -1,0 +1,1208 @@
+2019-12-13 16:27:02 [scrapy.utils.log] INFO: Scrapy 1.8.0 started (bot: tuling)
+2019-12-13 16:27:02 [scrapy.utils.log] INFO: Versions: lxml 4.4.2.0, libxml2 2.9.5, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 19.10.0, Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)], pyOpenSSL 19.1.0 (OpenSSL 1.1.1d  10 Sep 2019), cryptography 2.8, Platform Windows-10-10.0.18362-SP0
+2019-12-13 16:27:02 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'tuling', 'LOG_FILE': 'log.log', 'NEWSPIDER_MODULE': 'tuling.spiders', 'SPIDER_MODULES': ['tuling.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36'}
+2019-12-13 16:27:02 [scrapy.extensions.telnet] INFO: Telnet Password: f48b6a3ef3723814
+2019-12-13 16:27:02 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2019-12-13 16:27:03 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2019-12-13 16:27:03 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2019-12-13 16:27:03 [scrapy.middleware] INFO: Enabled item pipelines:
+['tuling.pipelines.TulingPipeline']
+2019-12-13 16:27:03 [scrapy.core.engine] INFO: Spider opened
+2019-12-13 16:27:03 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2019-12-13 16:27:03 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2019-12-13 16:27:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/11> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/69> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1863> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:27:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2648> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:27:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/101> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1863>
+None
+2019-12-13 16:27:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/6> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:23 [scrapy.dupefilters] DEBUG: Filtered duplicate request: <GET https://www.ituring.com.cn/book/2606> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2019-12-13 16:27:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/25> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1980> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:27:23 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2648>
+None
+2019-12-13 16:27:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/39> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1929> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:27:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/448> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/36538> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2658> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:27:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1980>
+None
+2019-12-13 16:27:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2050> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:27:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/36527> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/2492> (referer: https://www.ituring.com.cn/)
+2019-12-13 16:27:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1861> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:27:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1929>
+None
+2019-12-13 16:27:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2618> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:27:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1986> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:27:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2041> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:27:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2606> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:27:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2658>
+None
+2019-12-13 16:27:50 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2577> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:27:50 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2582> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:27:50 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2599> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:27:50 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2653> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:27:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2050>
+None
+2019-12-13 16:27:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1861>
+None
+2019-12-13 16:28:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2618>
+None
+2019-12-13 16:28:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1986>
+None
+2019-12-13 16:28:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2617> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:28:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1709> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:28:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1921> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:28:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2452> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:28:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2041>
+None
+2019-12-13 16:28:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2606>
+None
+2019-12-13 16:28:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1413> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:28:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2437> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:28:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2438> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:28:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1698> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:28:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2577>
+None
+2019-12-13 16:28:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2582>
+None
+2019-12-13 16:28:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2599>
+None
+2019-12-13 16:28:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2653>
+None
+2019-12-13 16:28:12 [scrapy.extensions.logstats] INFO: Crawled 34 pages (at 34 pages/min), scraped 15 items (at 15 items/min)
+2019-12-13 16:28:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1940> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:28:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2007> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:28:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2767> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:28:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1548> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:28:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2617>
+None
+2019-12-13 16:28:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1709>
+None
+2019-12-13 16:28:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1921>
+None
+2019-12-13 16:28:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2452>
+None
+2019-12-13 16:28:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1915> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:28:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1920> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:28:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2464> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:28:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2018> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:28:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1413>
+None
+2019-12-13 16:28:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2437>
+None
+2019-12-13 16:28:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2438>
+None
+2019-12-13 16:28:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1698>
+None
+2019-12-13 16:28:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1937> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:28:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1682> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:28:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1913> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:28:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1769> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:28:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1940>
+None
+2019-12-13 16:28:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2007>
+None
+2019-12-13 16:28:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2767>
+None
+2019-12-13 16:28:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1548>
+None
+2019-12-13 16:28:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1564> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:28:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1723> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:28:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1954> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:28:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1785> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:28:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1915>
+None
+2019-12-13 16:28:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1920>
+None
+2019-12-13 16:28:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2464>
+None
+2019-12-13 16:28:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2018>
+None
+2019-12-13 16:28:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2463> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:28:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2569> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:28:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2029> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:28:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1933> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:28:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1937>
+None
+2019-12-13 16:28:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1682>
+None
+2019-12-13 16:28:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1913>
+None
+2019-12-13 16:28:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1769>
+None
+2019-12-13 16:29:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2688> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:29:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1556> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1814> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1909> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:29:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1564>
+None
+2019-12-13 16:29:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1723>
+None
+2019-12-13 16:29:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1954>
+None
+2019-12-13 16:29:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1785>
+None
+2019-12-13 16:29:12 [scrapy.extensions.logstats] INFO: Crawled 58 pages (at 24 pages/min), scraped 39 items (at 24 items/min)
+2019-12-13 16:29:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1349> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:29:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1894> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:29:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2069> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1864> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2463>
+None
+2019-12-13 16:29:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2569>
+None
+2019-12-13 16:29:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2029>
+None
+2019-12-13 16:29:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1933>
+None
+2019-12-13 16:29:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2118> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:29:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2431> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:29:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1714> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1907> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:22 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2688>
+None
+2019-12-13 16:29:22 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1556>
+None
+2019-12-13 16:29:22 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1814>
+None
+2019-12-13 16:29:22 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1909>
+None
+2019-12-13 16:29:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2006> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:29:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1563> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1739> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1812> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:29:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1349>
+None
+2019-12-13 16:29:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1894>
+None
+2019-12-13 16:29:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2069>
+None
+2019-12-13 16:29:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1864>
+None
+2019-12-13 16:29:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1353> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:29:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1765> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:29:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1846> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/987> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2118>
+None
+2019-12-13 16:29:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2431>
+None
+2019-12-13 16:29:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1714>
+None
+2019-12-13 16:29:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1907>
+None
+2019-12-13 16:29:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/11)
+2019-12-13 16:29:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1839> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:29:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1720> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1807> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2006>
+None
+2019-12-13 16:29:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1563>
+None
+2019-12-13 16:29:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1739>
+None
+2019-12-13 16:29:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1812>
+None
+2019-12-13 16:29:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1119> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:29:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1695> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1535> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1867> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:29:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1353>
+None
+2019-12-13 16:29:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1765>
+None
+2019-12-13 16:29:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1846>
+None
+2019-12-13 16:29:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/987>
+None
+2019-12-13 16:29:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/69)
+2019-12-13 16:29:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1455> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/993> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1811> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:29:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1839>
+None
+2019-12-13 16:29:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1720>
+None
+2019-12-13 16:29:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1807>
+None
+2019-12-13 16:29:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1762> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:29:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1613> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:29:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1884> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:29:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1114> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:30:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1119>
+None
+2019-12-13 16:30:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1695>
+None
+2019-12-13 16:30:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1535>
+None
+2019-12-13 16:30:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1867>
+None
+2019-12-13 16:30:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1661> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:30:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1605> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:30:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1537> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:30:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1624> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:30:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1455>
+None
+2019-12-13 16:30:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/993>
+None
+2019-12-13 16:30:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1811>
+None
+2019-12-13 16:30:08 [scrapy.extensions.logstats] INFO: Crawled 94 pages (at 36 pages/min), scraped 73 items (at 34 items/min)
+2019-12-13 16:30:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1636> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:30:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1279> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:30:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1445> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:30:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/980> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:30:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1762>
+None
+2019-12-13 16:30:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1884>
+None
+2019-12-13 16:30:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1613>
+None
+2019-12-13 16:30:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1114>
+None
+2019-12-13 16:30:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/101)
+2019-12-13 16:30:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1554> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:30:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/800> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:30:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1085> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:30:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1661>
+None
+2019-12-13 16:30:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1605>
+None
+2019-12-13 16:30:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1537>
+None
+2019-12-13 16:30:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1624>
+None
+2019-12-13 16:30:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/6)
+2019-12-13 16:30:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1489> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:30:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/802> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:30:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/529> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:30:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1636>
+None
+2019-12-13 16:30:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1279>
+None
+2019-12-13 16:30:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1445>
+None
+2019-12-13 16:30:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/980>
+None
+2019-12-13 16:30:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1320> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:30:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:30:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/655> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:30:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1722> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:30:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1554>
+None
+2019-12-13 16:30:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/800>
+None
+2019-12-13 16:30:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1085>
+None
+2019-12-13 16:30:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:30:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/378> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:30:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1239> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:30:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1546> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1489>
+None
+2019-12-13 16:30:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/802>
+None
+2019-12-13 16:30:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/529>
+None
+2019-12-13 16:30:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/374> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:30:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:30:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/970> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1701> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:26 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1320>
+None
+2019-12-13 16:30:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/655>
+None
+2019-12-13 16:30:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1722>
+None
+2019-12-13 16:30:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:30:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1192> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1371> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1912> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/378>
+None
+2019-12-13 16:30:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1239>
+None
+2019-12-13 16:30:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1546>
+None
+2019-12-13 16:30:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1449> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1651> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1440> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1569> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/374>
+None
+2019-12-13 16:30:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/970>
+None
+2019-12-13 16:30:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1701>
+None
+2019-12-13 16:30:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1484> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1193> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1389> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1430> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1192>
+None
+2019-12-13 16:30:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1371>
+None
+2019-12-13 16:30:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1912>
+None
+2019-12-13 16:30:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1486> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1113> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/764> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:30:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1857> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:30:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1449>
+None
+2019-12-13 16:30:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1651>
+None
+2019-12-13 16:30:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1440>
+None
+2019-12-13 16:30:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1569>
+None
+2019-12-13 16:31:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1744> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/862> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1632> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1184> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1484>
+None
+2019-12-13 16:31:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1193>
+None
+2019-12-13 16:31:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1389>
+None
+2019-12-13 16:31:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1430>
+None
+2019-12-13 16:31:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1778> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1078> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1488> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1052> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:08 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1486>
+None
+2019-12-13 16:31:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/764>
+None
+2019-12-13 16:31:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1113>
+None
+2019-12-13 16:31:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1857>
+None
+2019-12-13 16:31:11 [scrapy.extensions.logstats] INFO: Crawled 142 pages (at 48 pages/min), scraped 115 items (at 42 items/min)
+2019-12-13 16:31:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1552> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1021> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1361> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1044> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1744>
+None
+2019-12-13 16:31:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/862>
+None
+2019-12-13 16:31:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1632>
+None
+2019-12-13 16:31:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1184>
+None
+2019-12-13 16:31:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1941> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1633> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1027> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/171> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:23 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1778>
+None
+2019-12-13 16:31:23 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1078>
+None
+2019-12-13 16:31:23 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1488>
+None
+2019-12-13 16:31:23 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1052>
+None
+2019-12-13 16:31:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1966> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2681> (referer: https://www.ituring.com.cn/tag/books/69?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1442> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/950> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1552>
+None
+2019-12-13 16:31:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1021>
+None
+2019-12-13 16:31:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1361>
+None
+2019-12-13 16:31:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1044>
+None
+2019-12-13 16:31:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2005> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1256> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/875> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1978> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1941>
+None
+2019-12-13 16:31:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1633>
+None
+2019-12-13 16:31:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1027>
+None
+2019-12-13 16:31:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/171>
+None
+2019-12-13 16:31:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/72> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/931> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/877> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/88> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1966>
+None
+2019-12-13 16:31:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2681>
+None
+2019-12-13 16:31:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1442>
+None
+2019-12-13 16:31:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/950>
+None
+2019-12-13 16:31:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1095> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1140> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/747> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/141> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2005>
+None
+2019-12-13 16:31:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1256>
+None
+2019-12-13 16:31:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/875>
+None
+2019-12-13 16:31:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1978>
+None
+2019-12-13 16:31:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1196> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1290> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/32> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/163> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:31:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/72>
+None
+2019-12-13 16:31:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/931>
+None
+2019-12-13 16:31:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/877>
+None
+2019-12-13 16:31:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/88>
+None
+2019-12-13 16:32:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1183> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1272> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/144> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/283> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1095>
+None
+2019-12-13 16:32:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1140>
+None
+2019-12-13 16:32:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/747>
+None
+2019-12-13 16:32:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/141>
+None
+2019-12-13 16:32:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1226> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/927> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/254> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/288> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1196>
+None
+2019-12-13 16:32:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1290>
+None
+2019-12-13 16:32:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/32>
+None
+2019-12-13 16:32:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/163>
+None
+2019-12-13 16:32:07 [scrapy.extensions.logstats] INFO: Crawled 178 pages (at 36 pages/min), scraped 151 items (at 36 items/min)
+2019-12-13 16:32:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1132> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/363> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/302> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1183>
+None
+2019-12-13 16:32:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1272>
+None
+2019-12-13 16:32:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/144>
+None
+2019-12-13 16:32:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/283>
+None
+2019-12-13 16:32:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/897> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/416> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/391> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/413> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1226>
+None
+2019-12-13 16:32:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/927>
+None
+2019-12-13 16:32:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/254>
+None
+2019-12-13 16:32:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/288>
+None
+2019-12-13 16:32:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/792> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/424> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/427> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/458> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1132>
+None
+2019-12-13 16:32:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/363>
+None
+2019-12-13 16:32:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/302>
+None
+2019-12-13 16:32:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/946> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/453> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/466> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/580> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/897>
+None
+2019-12-13 16:32:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/416>
+None
+2019-12-13 16:32:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/391>
+None
+2019-12-13 16:32:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/413>
+None
+2019-12-13 16:32:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/776> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/612> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/474> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1090> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:26 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/792>
+None
+2019-12-13 16:32:26 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/424>
+None
+2019-12-13 16:32:26 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/427>
+None
+2019-12-13 16:32:26 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/458>
+None
+2019-12-13 16:32:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/748> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/627> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/515> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1162> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/946>
+None
+2019-12-13 16:32:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/453>
+None
+2019-12-13 16:32:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/466>
+None
+2019-12-13 16:32:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/580>
+None
+2019-12-13 16:32:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/762> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/101?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/101?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/521> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/159> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/776>
+None
+2019-12-13 16:32:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/612>
+None
+2019-12-13 16:32:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/474>
+None
+2019-12-13 16:32:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1090>
+None
+2019-12-13 16:32:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/6?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/526> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1185> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/103> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/748>
+None
+2019-12-13 16:32:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/627>
+None
+2019-12-13 16:32:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/515>
+None
+2019-12-13 16:32:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1162>
+None
+2019-12-13 16:32:34 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/550> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:34 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/762>
+None
+2019-12-13 16:32:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/521>
+None
+2019-12-13 16:32:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/159>
+None
+2019-12-13 16:32:36 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/tag/books/39?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/932> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1278> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1154> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:36 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/906> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1094> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/526>
+None
+2019-12-13 16:32:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1185>
+None
+2019-12-13 16:32:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/103>
+None
+2019-12-13 16:32:39 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:39 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1396> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:39 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/550>
+None
+2019-12-13 16:32:39 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/tag/books/39?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555>: HTTP status code is not handled or not allowed
+2019-12-13 16:32:39 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/906>: HTTP status code is not handled or not allowed
+2019-12-13 16:32:41 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/1719> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1515> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/411> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1715> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1373> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/334> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/932>
+None
+2019-12-13 16:32:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1278>
+None
+2019-12-13 16:32:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1154>
+None
+2019-12-13 16:32:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1094>
+None
+2019-12-13 16:32:43 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/193> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:43 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1745> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1396>
+None
+2019-12-13 16:32:44 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/1719>: HTTP status code is not handled or not allowed
+2019-12-13 16:32:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1752> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/42> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/634> (referer: https://www.ituring.com.cn/tag/books/101?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1386> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:46 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/327> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/233> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1515>
+None
+2019-12-13 16:32:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/411>
+None
+2019-12-13 16:32:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1715>
+None
+2019-12-13 16:32:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/334>
+None
+2019-12-13 16:32:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1373>
+None
+2019-12-13 16:32:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1733> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/154> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/193>
+None
+2019-12-13 16:32:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1745>
+None
+2019-12-13 16:32:49 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/327>: HTTP status code is not handled or not allowed
+2019-12-13 16:32:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1647> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/176> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1383> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/325> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:52 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/142> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1555> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1752>
+None
+2019-12-13 16:32:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/42>
+None
+2019-12-13 16:32:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/634>
+None
+2019-12-13 16:32:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1386>
+None
+2019-12-13 16:32:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/233>
+None
+2019-12-13 16:32:55 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1767> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:55 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1733>
+None
+2019-12-13 16:32:55 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/154>
+None
+2019-12-13 16:32:55 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/142>: HTTP status code is not handled or not allowed
+2019-12-13 16:32:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1919> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/282> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:58 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/890> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/898> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/273> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/249> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/636> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:32:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1647>
+None
+2019-12-13 16:32:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/176>
+None
+2019-12-13 16:32:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1383>
+None
+2019-12-13 16:32:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/325>
+None
+2019-12-13 16:32:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1555>
+None
+2019-12-13 16:33:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1938> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1767>
+None
+2019-12-13 16:33:01 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/890>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:04 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/298> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/340> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/752> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/790> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:04 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/1693> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/260> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/579> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1919>
+None
+2019-12-13 16:33:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/282>
+None
+2019-12-13 16:33:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/898>
+None
+2019-12-13 16:33:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/273>
+None
+2019-12-13 16:33:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/249>
+None
+2019-12-13 16:33:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/636>
+None
+2019-12-13 16:33:05 [scrapy.extensions.logstats] INFO: Crawled 257 pages (at 79 pages/min), scraped 220 items (at 69 items/min)
+2019-12-13 16:33:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2078> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:07 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1938>
+None
+2019-12-13 16:33:07 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/298>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:07 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/1693>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:10 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/360> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/45> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/356> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/4> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:10 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/1254> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/237> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/530> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/752>
+None
+2019-12-13 16:33:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/340>
+None
+2019-12-13 16:33:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/790>
+None
+2019-12-13 16:33:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/260>
+None
+2019-12-13 16:33:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/579>
+None
+2019-12-13 16:33:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2482> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2078>
+None
+2019-12-13 16:33:14 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/360>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:14 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/1254>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:16 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/1242> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/388> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/81> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/371> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:16 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/57> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1731> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/180> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/45>
+None
+2019-12-13 16:33:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/356>
+None
+2019-12-13 16:33:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/4>
+None
+2019-12-13 16:33:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/237>
+None
+2019-12-13 16:33:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/530>
+None
+2019-12-13 16:33:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2426> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2482>
+None
+2019-12-13 16:33:18 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/1242>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:18 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/57>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:20 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/2661> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/456> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/119> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/409> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:20 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/101> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/647> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1726> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/388>
+None
+2019-12-13 16:33:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/81>
+None
+2019-12-13 16:33:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/371>
+None
+2019-12-13 16:33:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/180>
+None
+2019-12-13 16:33:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1731>
+None
+2019-12-13 16:33:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/11?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:22 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2426>
+None
+2019-12-13 16:33:22 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/2661>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:22 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/101>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:24 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/479> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/131> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/457> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/124> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:24 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/683> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1675> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/852> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/456>
+None
+2019-12-13 16:33:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/119>
+None
+2019-12-13 16:33:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/409>
+None
+2019-12-13 16:33:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/647>
+None
+2019-12-13 16:33:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1726>
+None
+2019-12-13 16:33:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/485> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:27 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/479>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:27 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/683>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:29 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/490> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/137> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/133> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/167> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:29 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/149> (referer: https://www.ituring.com.cn/tag/books/2492?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1677> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1626> (referer: https://www.ituring.com.cn/tag/books/39?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/131>
+None
+2019-12-13 16:33:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/457>
+None
+2019-12-13 16:33:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/124>
+None
+2019-12-13 16:33:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1675>
+None
+2019-12-13 16:33:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/852>
+None
+2019-12-13 16:33:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/555> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/485>
+None
+2019-12-13 16:33:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/490>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/149>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:33 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/613> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/147> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/140> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/114> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:33 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/1110> (referer: https://www.ituring.com.cn/tag/books/448?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/26> (referer: https://www.ituring.com.cn/tag/books/25?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1819> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/137>
+None
+2019-12-13 16:33:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/133>
+None
+2019-12-13 16:33:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/167>
+None
+2019-12-13 16:33:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1677>
+None
+2019-12-13 16:33:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1626>
+None
+2019-12-13 16:33:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/631> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/555>
+None
+2019-12-13 16:33:35 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/613>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:35 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/1110>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:36 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/tag/books/6?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/6?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/153> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1900> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/152> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:36 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/2052> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:36 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/147>
+None
+2019-12-13 16:33:36 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/140>
+None
+2019-12-13 16:33:36 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/114>
+None
+2019-12-13 16:33:36 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/26>
+None
+2019-12-13 16:33:36 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1819>
+None
+2019-12-13 16:33:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/162> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1105> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1560> (referer: https://www.ituring.com.cn/tag/books/11?page=1&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/631>
+None
+2019-12-13 16:33:37 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/tag/books/6?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:37 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/2052>: HTTP status code is not handled or not allowed
+2019-12-13 16:33:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/172> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/317> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/153>
+None
+2019-12-13 16:33:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1900>
+None
+2019-12-13 16:33:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/152>
+None
+2019-12-13 16:33:39 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/728> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:39 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1960> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:39 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1883> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:39 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/162>
+None
+2019-12-13 16:33:39 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1105>
+None
+2019-12-13 16:33:39 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1560>
+None
+2019-12-13 16:33:40 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2003> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:40 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/448?page=2&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/172>
+None
+2019-12-13 16:33:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/317>
+None
+2019-12-13 16:33:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2586> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/205> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2556> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1623> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/728>
+None
+2019-12-13 16:33:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1960>
+None
+2019-12-13 16:33:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1883>
+None
+2019-12-13 16:33:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1370> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2557> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1170> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:33:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/231> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:42 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2003>
+None
+2019-12-13 16:33:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1931> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2639> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1524> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:33:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2663> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:45 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2586>
+None
+2019-12-13 16:33:45 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/205>
+None
+2019-12-13 16:33:45 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1623>
+None
+2019-12-13 16:33:45 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2556>
+None
+2019-12-13 16:33:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/685> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2049> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2650> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1370>
+None
+2019-12-13 16:33:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2557>
+None
+2019-12-13 16:33:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1170>
+None
+2019-12-13 16:33:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/231>
+None
+2019-12-13 16:33:48 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2654> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:48 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1518> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:33:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1066> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1859> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1976> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:33:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1931>
+None
+2019-12-13 16:33:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2639>
+None
+2019-12-13 16:33:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1524>
+None
+2019-12-13 16:33:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2663>
+None
+2019-12-13 16:33:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2652> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/203> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1942> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:33:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/685>
+None
+2019-12-13 16:33:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2049>
+None
+2019-12-13 16:33:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2650>
+None
+2019-12-13 16:33:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1616> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:33:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2680> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/202> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1670> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1831> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:53 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2654>
+None
+2019-12-13 16:33:53 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1518>
+None
+2019-12-13 16:33:53 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1066>
+None
+2019-12-13 16:33:53 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1859>
+None
+2019-12-13 16:33:53 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1976>
+None
+2019-12-13 16:33:55 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2679> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:55 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/226> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:55 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1615> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:33:55 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2652>
+None
+2019-12-13 16:33:55 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/203>
+None
+2019-12-13 16:33:55 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1942>
+None
+2019-12-13 16:33:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2697> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/240> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1822> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:33:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1616>
+None
+2019-12-13 16:33:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2680>
+None
+2019-12-13 16:33:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/202>
+None
+2019-12-13 16:33:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1670>
+None
+2019-12-13 16:33:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1831>
+None
+2019-12-13 16:33:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2788> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/251> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1984> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1876> (referer: https://www.ituring.com.cn/tag/36538)
+2019-12-13 16:33:57 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2679>
+None
+2019-12-13 16:33:57 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/226>
+None
+2019-12-13 16:33:57 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1615>
+None
+2019-12-13 16:33:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/261> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2480> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:33:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2697>
+None
+2019-12-13 16:33:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/240>
+None
+2019-12-13 16:33:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1822>
+None
+2019-12-13 16:33:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2759> (referer: https://www.ituring.com.cn/tag/books/11?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:59 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/914> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:33:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/304> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:33:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1435> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:33:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2788>
+None
+2019-12-13 16:33:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/251>
+None
+2019-12-13 16:33:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1984>
+None
+2019-12-13 16:33:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1876>
+None
+2019-12-13 16:34:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2631> (referer: https://www.ituring.com.cn/tag/36538)
+2019-12-13 16:34:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/306> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2037> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:34:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/261>
+None
+2019-12-13 16:34:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2480>
+None
+2019-12-13 16:34:00 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/914>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2484> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:34:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1147> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:34:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/311> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2759>
+None
+2019-12-13 16:34:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/304>
+None
+2019-12-13 16:34:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1435>
+None
+2019-12-13 16:34:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/310> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2422> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:34:02 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2631>
+None
+2019-12-13 16:34:02 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/306>
+None
+2019-12-13 16:34:02 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2037>
+None
+2019-12-13 16:34:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1282> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:34:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/312> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1115> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:34:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/208> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:34:03 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2484>
+None
+2019-12-13 16:34:03 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1147>
+None
+2019-12-13 16:34:03 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/311>
+None
+2019-12-13 16:34:03 [scrapy.extensions.logstats] INFO: Crawled 377 pages (at 120 pages/min), scraped 323 items (at 103 items/min)
+2019-12-13 16:34:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2593> (referer: https://www.ituring.com.cn/tag/36538)
+2019-12-13 16:34:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2585> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:34:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1036> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:34:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/310>
+None
+2019-12-13 16:34:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2422>
+None
+2019-12-13 16:34:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/323> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/324> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1281> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:34:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1282>
+None
+2019-12-13 16:34:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/312>
+None
+2019-12-13 16:34:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1115>
+None
+2019-12-13 16:34:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/208>
+None
+2019-12-13 16:34:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1481> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:34:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/329> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2593>
+None
+2019-12-13 16:34:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2585>
+None
+2019-12-13 16:34:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1036>
+None
+2019-12-13 16:34:07 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/2597> (referer: https://www.ituring.com.cn/tag/36538)
+2019-12-13 16:34:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1810> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:34:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1990> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:34:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/387> (referer: https://www.ituring.com.cn/tag/36527)
+2019-12-13 16:34:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/335> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1892> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:34:07 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/323>
+None
+2019-12-13 16:34:07 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/324>
+None
+2019-12-13 16:34:07 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1281>
+None
+2019-12-13 16:34:08 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1481>
+None
+2019-12-13 16:34:08 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/329>
+None
+2019-12-13 16:34:08 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/2597>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/347> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/1671> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2483> (referer: https://www.ituring.com.cn/tag/39)
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/353> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/2105> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1097> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:34:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1810>
+None
+2019-12-13 16:34:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1990>
+None
+2019-12-13 16:34:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/387>
+None
+2019-12-13 16:34:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/335>
+None
+2019-12-13 16:34:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1892>
+None
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/2731> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:34:09 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/347>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:09 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/1671>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2483>
+None
+2019-12-13 16:34:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/353>
+None
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/355> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/1004> (referer: https://www.ituring.com.cn/tag/2492)
+2019-12-13 16:34:09 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/2605> (referer: https://www.ituring.com.cn/tag/448)
+2019-12-13 16:34:09 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/2105>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1097>
+None
+2019-12-13 16:34:10 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/2468> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:34:10 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/tag/books/448?page=4&X-Requested-With=XMLHttpRequest&_=1576224163555> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:10 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.ituring.com.cn/book/392> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:10 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/2731>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:10 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/355>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:10 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/1004>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:10 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/2605>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:10 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/2468>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:10 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/tag/books/448?page=4&X-Requested-With=XMLHttpRequest&_=1576224163555>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:10 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.ituring.com.cn/book/392>: HTTP status code is not handled or not allowed
+2019-12-13 16:34:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1448> (referer: https://www.ituring.com.cn/tag/36527)
+2019-12-13 16:34:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1448>
+None
+2019-12-13 16:34:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/364> (referer: https://www.ituring.com.cn/tag/books/448?page=3&X-Requested-With=XMLHttpRequest&_=1576224163555)
+2019-12-13 16:34:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/1363> (referer: https://www.ituring.com.cn/tag/25)
+2019-12-13 16:34:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/364>
+None
+2019-12-13 16:34:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/1363>
+None
+2019-12-13 16:34:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2461> (referer: https://www.ituring.com.cn/tag/36538)
+2019-12-13 16:34:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2461>
+None
+2019-12-13 16:34:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ituring.com.cn/book/2659> (referer: https://www.ituring.com.cn/tag/36538)
+2019-12-13 16:34:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.ituring.com.cn/book/2659>
+None
+2019-12-13 16:34:10 [scrapy.core.engine] INFO: Closing spider (finished)
+2019-12-13 16:34:10 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 288214,
+ 'downloader/request_count': 409,
+ 'downloader/request_method_count/GET': 409,
+ 'downloader/response_bytes': 6427683,
+ 'downloader/response_count': 409,
+ 'downloader/response_status_count/200': 375,
+ 'downloader/response_status_count/403': 34,
+ 'dupefilter/filtered': 28,
+ 'elapsed_time_seconds': 427.661712,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 12, 13, 8, 34, 10, 821400),
+ 'httperror/response_ignored_count': 34,
+ 'httperror/response_ignored_status_count/403': 34,
+ 'item_scraped_count': 350,
+ 'log_count/DEBUG': 760,
+ 'log_count/INFO': 51,
+ 'request_depth_max': 5,
+ 'response_received_count': 409,
+ 'scheduler/dequeued': 409,
+ 'scheduler/dequeued/memory': 409,
+ 'scheduler/enqueued': 409,
+ 'scheduler/enqueued/memory': 409,
+ 'start_time': datetime.datetime(2019, 12, 13, 8, 27, 3, 159688)}
+2019-12-13 16:34:10 [scrapy.core.engine] INFO: Spider closed (finished)
